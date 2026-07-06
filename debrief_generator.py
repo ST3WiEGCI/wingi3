@@ -54,18 +54,11 @@ WINGMAN
 
 
 facts = {
-    "dfp": True,
-    "event": "Goal Against @ 2:23",
-    "rc": "Second-man challenge without support",
-    "confidence": 91,
-    "cf": [
-        "Low boost",
-        "Teammate recovering",
-        "Wide recovery path"
-    ],
-    "narrative": "The final save was missed, but the first recoverable decision happened earlier. The second-man challenge occurred before teammate support was available, which collapsed the defensive structure.",
-    "mission": "Delay one beat before challenging as second man.",
-    "wingman": "Bold strategy. The opponent appreciated the invitation."
+    "dfp": False,
+    "learning_point": "Stay connected after your first challenge",
+    "narrative": "Across the session, the key improvement area was staying connected to the play after the first challenge. The issue was not one single goal against, but a repeated tendency to rotate too far away from pressure instead of using small pads to remain available.",
+    "mission": "After each first challenge, collect small pads and stay within one playable touch of the ball.",
+    "wingman": "Corner boost filed a missing persons report."
 }
 
 report = Debrief(facts)
