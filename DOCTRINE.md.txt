@@ -1,0 +1,90 @@
+# Wingi3 Doctrine
+
+## Mission
+
+Build the most trusted Rocket League debrief system.
+
+The objective is not to increase MMR.
+
+The objective is to improve decision making through disciplined, evidence-based debriefs.
+
+---
+
+## Principles
+
+Truth over opinion.
+
+Evidence over emotion.
+
+Habits over rank.
+
+Respect the player.
+
+Humor is earned.
+
+---
+
+## Debrief Flow
+
+1. Did an event occur?
+
+If no:
+
+Generate a Learning Point.
+
+If yes:
+
+Determine if a Debriefing Focal Point (DFP) exists.
+
+If no DFP exists:
+
+Generate a Learning Point.
+
+If a DFP exists:
+
+Identify:
+
+- Root Cause (RC)
+- Contributing Factors (CF)
+- Narrative
+- Mission
+
+---
+
+## Learning Point
+
+A Learning Point is used when there is no singular event worthy of Root Cause Analysis.
+
+The narrative explains:
+
+• What happened.
+• Why it matters.
+• What will be done differently next time.
+
+---
+
+## Debriefing Focal Point
+
+A DFP exists when sufficient evidence supports focused Root Cause Analysis.
+
+The debrief contains:
+
+RC
+
+CF
+
+Narrative
+
+Mission
+
+---
+
+## Wingman
+
+Humor never replaces instruction.
+
+Humor comes after the debrief.
+
+Humor laughs at the moment.
+
+Never at the player.

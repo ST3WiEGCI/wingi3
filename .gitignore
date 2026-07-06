@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Secrets
+.env
+
+# Databases
+*.db
+
+# Replay files
+*.replay
+
+# Logs
+*.log
