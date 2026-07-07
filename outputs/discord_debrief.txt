@@ -3,19 +3,19 @@ Every outcome has a cause.
 Find it. Learn from it.
 
 MISSION STATUS
-Continues
+Complete
 
 MODE
-1v1
+3v3
 
 RESULT
-Loss 1-8
+Win 5-3
 
 PLAYER
 $T3WiE
 
 STAT LINE
-1G / 0A / 1S / 5 Shots
+0G / 4A / 2S / 3 Shots
 
 LEARNING POINT
 Support-heavy winning role.
