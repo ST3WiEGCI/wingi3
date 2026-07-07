@@ -1,61 +1,76 @@
 {
   "gameMetadata": {
-    "id": "0C11EA5E11F179AA039C91A3EF58DF76",
-    "name": "yup",
+    "id": "265218E74DC682938277488AC0838CAA",
+    "name": "loss",
     "map": "Stadium_P",
     "version": 8,
-    "time": "1783408667",
-    "frames": 7151,
+    "time": "1783395182",
+    "frames": 11382,
     "score": {
-      "team0Score": 3,
-      "team1Score": 4
+      "team0Score": 8,
+      "team1Score": 1
     },
     "goals": [
       {
-        "frameNumber": 341,
+        "frameNumber": 322,
         "playerId": {
-          "id": "e5cd612a0daa47cabc1159a1bfb5764a"
+          "id": "c3760ef8aec64e39bc68655a559b479c"
         }
       },
       {
-        "frameNumber": 1586,
+        "frameNumber": 1358,
         "playerId": {
-          "id": "e5cd612a0daa47cabc1159a1bfb5764a"
+          "id": "c3760ef8aec64e39bc68655a559b479c"
         }
       },
       {
-        "frameNumber": 3800,
+        "frameNumber": 2824,
         "playerId": {
-          "id": "66c51378813f4397901d1f07c715c6a4"
+          "id": "c3760ef8aec64e39bc68655a559b479c"
         }
       },
       {
-        "frameNumber": 5298,
+        "frameNumber": 4710,
+        "playerId": {
+          "id": "c3760ef8aec64e39bc68655a559b479c"
+        }
+      },
+      {
+        "frameNumber": 6969,
+        "playerId": {
+          "id": "c3760ef8aec64e39bc68655a559b479c"
+        }
+      },
+      {
+        "frameNumber": 7940,
+        "playerId": {
+          "id": "c3760ef8aec64e39bc68655a559b479c"
+        }
+      },
+      {
+        "frameNumber": 9683,
+        "playerId": {
+          "id": "c3760ef8aec64e39bc68655a559b479c"
+        }
+      },
+      {
+        "frameNumber": 10106,
+        "playerId": {
+          "id": "c3760ef8aec64e39bc68655a559b479c"
+        }
+      },
+      {
+        "frameNumber": 11382,
         "playerId": {
           "id": "76561198918520731"
         }
-      },
-      {
-        "frameNumber": 6378,
-        "playerId": {
-          "id": "e5cd612a0daa47cabc1159a1bfb5764a"
-        }
-      },
-      {
-        "frameNumber": 6626,
-        "playerId": {
-          "id": "66c51378813f4397901d1f07c715c6a4"
-        }
-      },
-      {
-        "frameNumber": 7151,
-        "playerId": {
-          "id": "66c51378813f4397901d1f07c715c6a4"
-        }
       }
     ],
-    "matchGuid": "0C11EA5E11F179AA039C91A3EF58DF76",
-    "teamSize": 2,
+    "primaryPlayer": {
+      "id": "76561198918520731"
+    },
+    "matchGuid": "265218E74DC682938277488AC0838CAA",
+    "teamSize": 1,
     "isInvalidAnalysis": true
   },
   "players": [
@@ -64,54 +79,26 @@
         "id": "76561198918520731"
       },
       "name": "$T3WiE",
-      "score": 534,
+      "score": 448,
       "goals": 1,
-      "assists": 2,
-      "saves": 2,
-      "shots": 2,
+      "assists": 0,
+      "saves": 1,
+      "shots": 5,
       "isOrange": 1,
       "isBot": false,
       "platform": "OnlinePlatform_Steam"
     },
     {
       "id": {
-        "id": "81bc704f514b43f99a14bc91195074db"
+        "id": "c3760ef8aec64e39bc68655a559b479c"
       },
-      "name": "Carl F. Weezy",
-      "score": 370,
-      "goals": 0,
-      "assists": 1,
-      "saves": 2,
-      "shots": 3,
-      "isOrange": 0,
-      "isBot": false,
-      "platform": "OnlinePlatform_Epic"
-    },
-    {
-      "id": {
-        "id": "e5cd612a0daa47cabc1159a1bfb5764a"
-      },
-      "name": "moecitythedon713",
-      "score": 779,
-      "goals": 3,
+      "name": "VuujiI",
+      "score": 1351,
+      "goals": 8,
       "assists": 0,
-      "saves": 4,
-      "shots": 7,
+      "saves": 1,
+      "shots": 9,
       "isOrange": 0,
-      "isBot": false,
-      "platform": "OnlinePlatform_Epic"
-    },
-    {
-      "id": {
-        "id": "66c51378813f4397901d1f07c715c6a4"
-      },
-      "name": "Mattownsu2234",
-      "score": 932,
-      "goals": 3,
-      "assists": 1,
-      "saves": 4,
-      "shots": 8,
-      "isOrange": 1,
       "isBot": false,
       "platform": "OnlinePlatform_Epic"
     }
@@ -120,25 +107,19 @@
     {
       "playerIds": [
         {
-          "id": "e5cd612a0daa47cabc1159a1bfb5764a"
-        },
-        {
-          "id": "81bc704f514b43f99a14bc91195074db"
+          "id": "c3760ef8aec64e39bc68655a559b479c"
         }
       ],
-      "score": 3,
+      "score": 8,
       "isOrange": false
     },
     {
       "playerIds": [
         {
-          "id": "66c51378813f4397901d1f07c715c6a4"
-        },
-        {
           "id": "76561198918520731"
         }
       ],
-      "score": 4,
+      "score": 1,
       "isOrange": true
     }
   ],
