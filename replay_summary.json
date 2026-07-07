@@ -1,0 +1,146 @@
+{
+  "gameMetadata": {
+    "id": "0C11EA5E11F179AA039C91A3EF58DF76",
+    "name": "yup",
+    "map": "Stadium_P",
+    "version": 8,
+    "time": "1783408667",
+    "frames": 7151,
+    "score": {
+      "team0Score": 3,
+      "team1Score": 4
+    },
+    "goals": [
+      {
+        "frameNumber": 341,
+        "playerId": {
+          "id": "e5cd612a0daa47cabc1159a1bfb5764a"
+        }
+      },
+      {
+        "frameNumber": 1586,
+        "playerId": {
+          "id": "e5cd612a0daa47cabc1159a1bfb5764a"
+        }
+      },
+      {
+        "frameNumber": 3800,
+        "playerId": {
+          "id": "66c51378813f4397901d1f07c715c6a4"
+        }
+      },
+      {
+        "frameNumber": 5298,
+        "playerId": {
+          "id": "76561198918520731"
+        }
+      },
+      {
+        "frameNumber": 6378,
+        "playerId": {
+          "id": "e5cd612a0daa47cabc1159a1bfb5764a"
+        }
+      },
+      {
+        "frameNumber": 6626,
+        "playerId": {
+          "id": "66c51378813f4397901d1f07c715c6a4"
+        }
+      },
+      {
+        "frameNumber": 7151,
+        "playerId": {
+          "id": "66c51378813f4397901d1f07c715c6a4"
+        }
+      }
+    ],
+    "matchGuid": "0C11EA5E11F179AA039C91A3EF58DF76",
+    "teamSize": 2,
+    "isInvalidAnalysis": true
+  },
+  "players": [
+    {
+      "id": {
+        "id": "76561198918520731"
+      },
+      "name": "$T3WiE",
+      "score": 534,
+      "goals": 1,
+      "assists": 2,
+      "saves": 2,
+      "shots": 2,
+      "isOrange": 1,
+      "isBot": false,
+      "platform": "OnlinePlatform_Steam"
+    },
+    {
+      "id": {
+        "id": "81bc704f514b43f99a14bc91195074db"
+      },
+      "name": "Carl F. Weezy",
+      "score": 370,
+      "goals": 0,
+      "assists": 1,
+      "saves": 2,
+      "shots": 3,
+      "isOrange": 0,
+      "isBot": false,
+      "platform": "OnlinePlatform_Epic"
+    },
+    {
+      "id": {
+        "id": "e5cd612a0daa47cabc1159a1bfb5764a"
+      },
+      "name": "moecitythedon713",
+      "score": 779,
+      "goals": 3,
+      "assists": 0,
+      "saves": 4,
+      "shots": 7,
+      "isOrange": 0,
+      "isBot": false,
+      "platform": "OnlinePlatform_Epic"
+    },
+    {
+      "id": {
+        "id": "66c51378813f4397901d1f07c715c6a4"
+      },
+      "name": "Mattownsu2234",
+      "score": 932,
+      "goals": 3,
+      "assists": 1,
+      "saves": 4,
+      "shots": 8,
+      "isOrange": 1,
+      "isBot": false,
+      "platform": "OnlinePlatform_Epic"
+    }
+  ],
+  "teams": [
+    {
+      "playerIds": [
+        {
+          "id": "e5cd612a0daa47cabc1159a1bfb5764a"
+        },
+        {
+          "id": "81bc704f514b43f99a14bc91195074db"
+        }
+      ],
+      "score": 3,
+      "isOrange": false
+    },
+    {
+      "playerIds": [
+        {
+          "id": "66c51378813f4397901d1f07c715c6a4"
+        },
+        {
+          "id": "76561198918520731"
+        }
+      ],
+      "score": 4,
+      "isOrange": true
+    }
+  ],
+  "version": 7
+}
